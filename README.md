@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aitbek Amanidinov</h1>
-<h3 align="center">Java Developer | Backend Developer</h3>
+<h3 align="center">Java Developer</h3>
 
 ---
 
@@ -28,13 +28,3 @@
 - 🎮 **TicTacToe** — Console game built in Java
 - 🎯 **Hangman** — Console game built in Java  
 - 🚀 **spring-boot-job-board-api** — REST API built with Spring Boot, JPA and PostgreSQL
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanidinov&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanidinov&layout=compact&theme=dark" />
-</p>
