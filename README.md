@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aitbek Amanidinov</h1>
+<h3 align="center">Java Developer | Backend Developer</h3>
 
-<!--
-**Amanidinov/Amanidinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I'm currently expanding my knowledge on Java, learning **Spring Security, Spring AI, Microservices, and PL/SQL**
+- 💬 Ask me about **Java, Spring Boot, PostgreSQL, MySQL, Linux, Docker, GitHub**
+- 📫 How to reach me: **amanidinovaitbek@gmail.com**
+- 🌍 I speak **6 languages** — English, Russian, Kyrgyz, Kazakh, Turkish, Polish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" title="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git / GitHub"/>
+</p>
+
+---
+
+<h3 align="left">My Projects:</h3>
+
+- 🎮 **TicTacToe** — Console game built in Java
+- 🎯 **Hangman** — Console game built in Java  
+- 🚀 **spring-boot-job-board-api** — REST API built with Spring Boot, JPA and PostgreSQL
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanidinov&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanidinov&layout=compact&theme=dark" />
+</p>
